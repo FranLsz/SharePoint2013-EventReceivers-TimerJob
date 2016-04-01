@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="1c2977f2-a3b7-4c38-8aa8-3e808182d060" solutionId="1c2977f2-a3b7-4c38-8aa8-3e808182d060" resetWebServer="false" sharePointProductVersion="15.0" name="SpEventReceiver" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="37a0c9af-3543-4f9b-a7b6-e075b32a919e" />
+    <featureReference itemId="b432a114-81a5-45b0-b8ab-17b684b214d1" />
+    <featureReference itemId="defaf379-d970-494c-9811-fd579f8e6e76" />
+  </features>
+</package>
